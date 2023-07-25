@@ -5,7 +5,6 @@ Merhabalar, Bugün sizlere kendi yapmış olduğum public sunucular için kullan
 # Kurulum;
 
 ilk önce terminali açıp ``discord.js, axios, canvas, mongoose, moment`` modülerini indiriyorsunuz daha sonra ``config.json`` dosyasina girip botun mongo urlsini tokenini falan girin. ``settings.json`` kısmında ise sunucu ayarlarınızı yapın daha sonra başlat.bat çalıştırıp botu aktif hale getirin. Her hangi bir sorunda discord uzerinden ulaşa bilirsiniz. 
-discord: **waztuhh** 
 
 
 # Spoiler Fotolar;
