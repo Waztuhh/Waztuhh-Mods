@@ -10,9 +10,9 @@ discord: **waztuhh**
 
 # Spoiler Fotolar;
 
-![stats](https://github.com/Waztuhh/Waztuhh-Mods/assets/140250846/fda089cc-0b76-4176-beda-588f717f317e)
-![hesaaa](https://github.com/Waztuhh/Waztuhh-Mods/assets/140250846/a42a973d-ef97-43f0-8368-c3c160a730db)
-![helpp](https://github.com/Waztuhh/Waztuhh-Mods/assets/140250846/da063575-88a0-4cb3-ae98-f6bef786398f)
-![ddfgdf](https://github.com/Waztuhh/Waztuhh-Mods/assets/140250846/09873a19-d1ce-4112-a90b-42293a6e1ca1)
+![hesaaa](https://github.com/Waztuhh/Waztuhh-Mods/assets/140250846/44fdc480-5588-40db-8fa7-42825caaa00b)
+![helpp](https://github.com/Waztuhh/Waztuhh-Mods/assets/140250846/5122debe-dced-4c43-963e-82c54c3aec7d)
+![stats](https://github.com/Waztuhh/Waztuhh-Mods/assets/140250846/e9cda48c-d515-4007-8632-c38a5139fe6c)
+![ddfgdf](https://github.com/Waztuhh/Waztuhh-Mods/assets/140250846/c1e08ec0-fd0e-4431-8daa-f0fde031f064)
 
  
