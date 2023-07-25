@@ -1,0 +1,24 @@
+{
+  "name": "waztuhhlebas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "waztu.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "waztuhh",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.11.0",
+    "axios": "^0.27.2",
+    "canvas": "^2.9.3",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^13.16.0",
+    "humanize-duration": "^3.27.2",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.11.4",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3"
+  }
+}
