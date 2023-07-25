@@ -7,7 +7,7 @@ Merhabalar, Bugün sizlere kendi yapmış olduğum public sunucular için kullan
 ilk önce terminali açıp ``discord.js, axios, canvas, mongoose, moment`` modülerini indiriyorsunuz daha sonra ``config.json`` dosyasina girip botun mongo urlsini tokenini falan girin. ``settings.json`` kısmında ise sunucu ayarlarınızı yapın daha sonra başlat.bat çalıştırıp botu aktif hale getirin. Her hangi bir sorunda discord uzerinden ulaşa bilirsiniz. 
 
 
-# Spoiler Fotolar;
+# Spoiler Görseller;
 
 ![hesaaa](https://github.com/Waztuhh/Waztuhh-Mods/assets/140250846/44fdc480-5588-40db-8fa7-42825caaa00b)
 ![helpp](https://github.com/Waztuhh/Waztuhh-Mods/assets/140250846/5122debe-dced-4c43-963e-82c54c3aec7d)
